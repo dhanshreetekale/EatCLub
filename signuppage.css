@@ -68,6 +68,11 @@ button:hover {
     position: absolute;
     right: 20px;
 }
+button a{
+    
+    text-decoration: none;
+    color: white;
+}
 
 .error {
     color: red;
